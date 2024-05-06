@@ -12,7 +12,7 @@ function Hero({ setPlayStatus, setHeroCount, heroCount, playStatus, text1, text2
         <p>{text2}</p>
       </div>
       <div className="hero-explore">
-        <p>Explore the features</p>
+        <p>Explore More</p>
         <img src={arrow_btn} alt="" />
       </div>
       <div className="hero-dot-play">
